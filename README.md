@@ -8,10 +8,14 @@ Wood: Spruce, 18mm; horizontal: two pieces 722mm x 200mm and vertical: two piece
 
 I oiled the wood with Schrader Wood Oil (https://www.amazon.de/gp/product/B09XFDVP6Z). This went really well, the oil has no smell at all, so I could do it comfortably in our living room.
 
-I ordered four rails 142HP (722mm) from Modular Synth Lab (Haarlem/NL) incl. threaded strips (no loose nuts). The rails seem to comply with the common rail profile (19" Trägerprofil) from Gie-Tec, which unfortunately can't be aligned with a flat surface because it will tilt. Therefore I designed small supporting elements and printed them with my 3D printer. Find them in the 3D models folder as file railsupports.stl
+I ordered four rails 142HP (722mm) from Modular Synth Lab (Haarlem/NL) incl. threaded strips (no loose nuts). The rails seem to comply with the common rail profile (19" Trägerprofil) from Gie-Tec, which unfortunately can't be aligned with a flat surface because it will tilt. Therefore I designed small supporting elements and printed them with my 3D printer. Find them in the 3D models folder as file [railsupports.stl](3dmodels/railsupports.stl).
+
+In order to drill perfectly positioned holes for the main skrews I designed a drill template. Find it in the 3D modles folder as file [drilltemplate.stl](3dmodels/drilltemplate.stl).
+
+### Links
+Eurorack Specs: https://doepfer.de/a100_man/a100m_d.htm
 
 
+## Power Supply
 
-
-
-
+Coming next: my DIY power suppply.
