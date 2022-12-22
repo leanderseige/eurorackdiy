@@ -1,5 +1,7 @@
 # Eurorack DIY
 
+After experimenting with self-made synthesizers and some industrially manufactured musical instruments I now start with building and using modular synths. In this repo I document how the build of my own DIY Eurorack develops and share some files that may help others.
+
 ## Case
 
 My first step was to measure the available space for my Eurorack: 76cm. Minus 2x 18mm for the vertical walls of the case I had space for 142HP (722mm).
