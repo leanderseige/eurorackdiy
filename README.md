@@ -17,7 +17,7 @@ In order to drill perfectly positioned holes for the main skrews I designed a dr
 I bought blank panels from Doepfer and Modular Synth Lab in order to make sure that my rack will definitely comply with the specifications. Additionally I tried several 3d models of blank panels from thingiverse but to my surprise all of them did not match the industrially ones and so did obviously not comply with the specifications. Maybe people changed measures to match individual behaviour of their printers? However, I finally designed my own blank panel which comply with the specifications in almost all cases. I just made them an 10th millimeter longer so they are exactly the same length as the ones from Doepfer. With my tools both are 128.6mm (instead of 128.5mm according to the specs). If you want to give my blank panels a try you find them in the 3dmodels folder as bpXXhp.stl
 
 ### Links
-Eurorack Specs: https://doepfer.de/a100_man/a100m_d.htm
+Eurorack Specs: https://doepfer.de/a100_man/a100m_d.htm and https://doepfer.de/a100_man/a100t_d.htm
 
 
 ## Power Supply
