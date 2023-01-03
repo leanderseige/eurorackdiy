@@ -1,8 +1,11 @@
 # Eurorack DIY
 
-After experimenting with self-made synthesizers and some industrially manufactured musical instruments I now start with building and using modular synths. In this repo I document how the build of my own DIY Eurorack develops and share some files that may help others.
+After experimenting with homemade synthesizers and some industrially made musical instruments, I'm now starting to build and use modular synthesizers. In this repo I document how building my own DIY Eurorack is evolving and share some files that might help others.
 
 ## Case
+
+![my Eurorack, current status](photos/case1.jpg)
+
 
 My first step was to measure the available space for my Eurorack: 76cm. Minus 2x 18mm for the vertical walls of the case I had space for 142HP (722mm).
 
@@ -14,7 +17,7 @@ I ordered four rails 142HP (722mm) from Modular Synth Lab (Haarlem/NL) incl. thr
 
 In order to drill perfectly positioned holes for the main skrews I designed a drill template. Find it in the 3D modles folder as file [drilltemplate.stl](3dmodels/drilltemplate.stl).
 
-I bought blank panels from Doepfer and Modular Synth Lab in order to make sure that my rack will definitely comply with the specifications. Additionally I tried several 3d models of blank panels from thingiverse but to my surprise all of them did not match the industrially ones and so did obviously not comply with the specifications. Maybe people changed measures to match individual behaviour of their printers? However, I finally designed my own blank panel which comply with the specifications in almost all cases. I just made them an 10th millimeter longer so they are exactly the same length as the ones from Doepfer. With my tools both are 128.6mm (instead of 128.5mm according to the specs). If you want to give my blank panels a try you find them in the 3dmodels folder as bpXXhp.stl
+I bought two modules and blank panels from Doepfer and Modular Synth Lab in order to make sure that my rack will definitely comply with the specifications. Additionally I tried several 3d models of blank panels from thingiverse but to my surprise all of them did not match the industrially ones and so did obviously not comply with the specifications. Maybe people changed measures to match individual behaviour of their printers? However, I finally designed my own blank panel which comply with the specifications in almost all cases (when printed with my Anycubic i3 Mega S/Pro). I just made them an 10th millimeter longer so they are exactly the same length as the ones from Doepfer. With my tools both are 128.6mm (instead of 128.5mm according to the specs). If you want to give my blank panels a try you find them in the 3dmodels folder as bpXXhp.stl
 
 ### Links
 Eurorack Specs: https://doepfer.de/a100_man/a100m_d.htm and https://doepfer.de/a100_man/a100t_d.htm
