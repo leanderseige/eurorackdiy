@@ -23,3 +23,5 @@ Eurorack Specs: https://doepfer.de/a100_man/a100m_d.htm and https://doepfer.de/a
 ## Power Supply
 
 Coming next: my DIY power suppply.
+
+Width: according to the table https://doepfer.de/a100_man/a100m_d.htm I choose a width of 36HT and  round it down to 182.5 mm.
