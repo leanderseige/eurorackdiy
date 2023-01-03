@@ -15,7 +15,7 @@ I oiled the wood with Schrader Wood Oil (https://www.amazon.de/gp/product/B09XFD
 
 I ordered four rails 142HP (722mm) from Modular Synth Lab (Haarlem/NL) incl. threaded strips (no loose nuts). The rails seem to comply with the common rail profile (19" Trägerprofil) from Gie-Tec, which unfortunately can't be aligned with a flat surface because it will tilt. Therefore I designed small supporting elements and printed them with my 3D printer. Find them in the 3D models folder as file [railsupports.stl](3dmodels/railsupports.stl).
 
-![](photos/railsupports1.jpg | width=100)
+<img src="photos/railsupports1.jpg" width="400"><img src="photos/railsupports2.jpg" width="400">
 
 In order to drill perfectly positioned holes for the main skrews I designed a drill template. Find it in the 3D modles folder as file [drilltemplate.stl](3dmodels/drilltemplate.stl).
 
