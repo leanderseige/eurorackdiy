@@ -17,13 +17,13 @@ I ordered four rails of 142HP (722mm) width from Modular Synth Lab (Haarlem/NL) 
 
 <img src="photos/railsupports1.jpg" width="400"><img src="photos/railsupports2.jpg" width="400">
 
-In order to drill perfectly positioned holes for the main skrews I designed a drill template. Find it in the 3D modles folder as file [drilltemplate.stl](3dmodels/drilltemplate.stl). Should work with the mentioned profiles from or compatible with the ones from Gie-Tec.
+In order to drill perfectly positioned holes for the main skrews I designed a drill template. Find it in the 3D models folder as file [drilltemplate.stl](3dmodels/drilltemplate.stl). Should work with the mentioned profiles from or compatible with the ones from Gie-Tec.
 
 <img src="photos/drilltemplate.jpg" width="600">
 
 I bought two modules and blank panels from Doepfer and Modular Synth Lab in order to make sure that my rack will definitely comply with the specifications. 
 
-Additionally I tried several 3d models of blank panels from thingiverse but to my surprise nonfe of them seem to comply with the specifications. Maybe people changed measures to match individual behaviour of their printers? However, I finally designed my own blank panel which comply with the specifications in almost all cases (when printed with my Anycubic i3 Mega S/Pro). I just made them an 10th millimeter longer so they are exactly the same length as the ones from Doepfer. With my tools both are 128.6mm (instead of 128.5mm according to the specs). If you want to give my blank panels a try you find them in the 3dmodels folder as bpXXhp.stl
+Additionally I tried several 3d models of blank panels from thingiverse but to my surprise none of them seem to comply with the specifications. Maybe people changed measures to match individual behaviour of their printers? However, I finally designed my own blank panel which comply with the specifications in almost all cases (when printed with my Anycubic i3 Mega S/Pro). I just made them an 10th millimeter longer so they are exactly the same length as the ones from Doepfer. With my tools both are 128.6mm (instead of 128.5mm according to the specs). If you want to give my blank panels a try you find them in the 3dmodels folder as bpXXhp.stl
 
 ### Links
 Eurorack Specs: https://doepfer.de/a100_man/a100m_d.htm and https://doepfer.de/a100_man/a100t_d.htm
