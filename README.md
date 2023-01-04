@@ -7,17 +7,17 @@ After experimenting with homemade synthesizers and some industrially made musica
 ![my Eurorack, current status](photos/case1.jpg)
 
 
-My first step was to measure the available space for my Eurorack: 76cm. Minus 2x 18mm for the vertical walls of the case I had space for 142HP (722mm).
+My first step was to measure the available space for my Eurorack: 76cm. Subtracting 2x 18mm for the vertical walls of the case, I had space for two stories of 142HP (722mm) each.
 
-Wood: Spruce, 18mm; horizontal: two pieces 722mm x 200mm and vertical: two pieces 310mm x 200mm (slightly higher than required for some "feets" on the left and on the right side)
+Wood: Spruce, 18mm; horizontal: two pieces 722mm x 200mm and vertical: two pieces 310mm x 200mm (slightly higher than required for "feets" on the left and on the right side)
 
-I oiled the wood with Schrader Wood Oil (https://www.amazon.de/gp/product/B09XFDVP6Z). This went really well, the oil has no smell at all, so I could do it comfortably in our living room.
+I it was the first time that I oiled wood with special wood oil (https://amzn.to/3VLArCw). And this went really well. The oil has no smell at all, so I could do it comfortably inside without annoying anyone.
 
 I ordered four rails 142HP (722mm) from Modular Synth Lab (Haarlem/NL) incl. threaded strips (no loose nuts). The rails seem to comply with the common rail profile (19" Trägerprofil) from Gie-Tec, which unfortunately can't be aligned with a flat surface because it will tilt. Therefore I designed small supporting elements and printed them with my 3D printer. Find them in the 3D models folder as file [railsupports.stl](3dmodels/railsupports.stl).
 
 <img src="photos/railsupports1.jpg" width="400"><img src="photos/railsupports2.jpg" width="400">
 
-In order to drill perfectly positioned holes for the main skrews I designed a drill template. Find it in the 3D modles folder as file [drilltemplate.stl](3dmodels/drilltemplate.stl).
+In order to drill perfectly positioned holes for the main skrews I designed a drill template. Find it in the 3D modles folder as file [drilltemplate.stl](3dmodels/drilltemplate.stl). Should work with the mentioned profiles from or compatible with the ones from Gie-Tec.
 
 <img src="photos/drilltemplate.jpg" width="600">
 
