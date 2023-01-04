@@ -31,8 +31,6 @@ Eurorack Specs: https://doepfer.de/a100_man/a100m_d.htm and https://doepfer.de/a
 
 ## Power Supply
 
-Coming next: my DIY power suppply.
+My next step is to build my own DIY power suppply.
 
-Width: according to the table https://doepfer.de/a100_man/a100m_d.htm I choose a width of 36HT and  round it down to 182.5 mm.
-
-Circuit: following https://syntherjack.net/modular-synth-power-supply/
+I am going to follow the specs  https://doepfer.de/a100_man/a100m_d.htm and the circuit diagram of my choice will be this one: https://syntherjack.net/modular-synth-power-supply/
