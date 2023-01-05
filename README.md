@@ -8,6 +8,7 @@ After building a few experimental synthesizers myself, I'm now starting to build
 
 ![my Eurorack, current status](photos/case1.jpg)
 
+I tried to follow the specifications provided by Doepfer at any point. Find the links below.
 
 My first step was to measure the available space for my Eurorack: 76cm. Subtracting 2x 18mm for the vertical walls of the case, I had space for two stories of 142HP (722mm) each.
 
