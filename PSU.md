@@ -10,6 +10,19 @@ I chose this circuit as a basis for my power supply: https://syntherjack.net/mod
 
 However, I have made a few small changes. So here is the diagram of exactly my PSU:
 
+Various Comments:
+
+In order to get a full featured PSU I simply added a 7805 to the 12V channel to create a 5V channel. But I didn't want the 7805 to be all alone so I placed some additional capacitors around it.
+
+I had a rectifier RS405 at hand from an old PC power supply, so I chose this one.
+
+I did not have 1N4007 diodes but UF4007, so I used these instead.
+
+I have one of those complete power modules that consist of a switch, a fuse and a jack and I used it for the rear side of the PSU. Of course I also added another switch for the front panel so I ended upd with two switches.
+
+I did not feel save with just one fuse in the primary circuit so I added one in each secondary AC channel. This maybe could or should be improved by putting them on the DC outputs instead?
+
+I was not able the get the output voltages lower than 12.7 (or -12.7) volt. So next time I probably would try a 1.5k resistor plus a 1k potentiometer. However I did not measure the PSU with load yet.
 
 
 # Transformer
