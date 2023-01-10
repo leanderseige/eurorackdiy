@@ -1,5 +1,9 @@
 # UNFINISHED WORK IN PROGRESS
 
+**WARNING! This device operates with high voltage. This is life-threateningly dangerous! This is a documentation. Not a manual. If you try to build a similar device, the entire risk is yours alone! If you do not feel 100% safe in handling high voltage, do not do it and buy a safe, industrially manufactured device.**
+
+If you find mistakes or suggestions for improvement, please don't hesitate and send them my way.
+
 # Circuit Diagram
 
 I chose this circuit as a basis for my power supply: https://syntherjack.net/modular-synth-power-supply/
