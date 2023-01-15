@@ -36,3 +36,11 @@ I am sure that this is the only correct way to do it. P
 !()[bitmaps/oscilloscope1.png]
 
 # Case
+
+I decided to design a complete case for my PSU and manufacture it with my 3d-printer. Here is the model of it:
+
+!()[bitmaps/explodedpsucase.png]
+
+The case was made to be placed into a Eurorack. It is divided into two chambers: the first one contains all the high voltage elements and the transformator while the second one houses the voltage regulator board. Outside the case is a niche for a small PCB with up to three 16pin sockets. There is also a rectangluar window for a grille of 10cm x 10cm to let warm air escape.
+
+The high voltage chamber has a round bed for a toroidal transformer. 
