@@ -33,7 +33,7 @@ that the secondary windings must be connected in the right phase order. The foll
 screenshots show the two options of the phases and I chose the right option because
 I am sure that this is the only correct way to do it. P
 
-!()[bitmaps/oscilloscope1.png]
+![](bitmaps/oscilloscope1.png)
 
 # Case
 
