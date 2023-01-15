@@ -44,3 +44,8 @@ I decided to design a complete case for my PSU and manufacture it with my 3d-pri
 The case was made to be placed into a Eurorack. It is divided into two chambers: the first one contains all the high voltage elements and the transformator while the second one houses the voltage regulator board. Outside the case is a niche for a small PCB with up to three 16pin sockets. There is also a rectangluar window for a grille of 10cm x 10cm to let warm air escape.
 
 The high voltage chamber has a round bed for a toroidal transformer.
+
+# What would I change if I would build this a second time?
+
+- Make the right side read wall one millimeter thicker so it does bend less wenn plugin/unplugin the power cord.
+- I didn't need the hole for the front panel fuse, so I would close it. However, it could be useful with a different design. 
