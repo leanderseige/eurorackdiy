@@ -4,6 +4,10 @@
 
 If you find mistakes or suggestions for improvement, please don't hesitate and send them my way.
 
+# A PSU for my Eurorack
+
+<img src="photos/psu.jpg" width="600">
+
 # Circuit Diagram
 
 I chose this circuit as a basis for my power supply: https://syntherjack.net/modular-synth-power-supply/
@@ -48,4 +52,4 @@ The high voltage chamber has a round bed for a toroidal transformer.
 # What would I change if I would build this a second time?
 
 - Make the right side read wall one millimeter thicker so it does bend less wenn plugin/unplugin the power cord.
-- I didn't need the hole for the front panel fuse, so I would close it. However, it could be useful with a different design. 
+- I didn't need the hole for the front panel fuse, so I would close it. However, it could be useful with a different design.
