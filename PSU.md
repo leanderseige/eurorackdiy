@@ -1,16 +1,16 @@
-# UNFINISHED WORK IN PROGRESS
+# A Power Supply for my DIY Eurorack
 
-**WARNING! This device operates with high voltage. This is life-threateningly dangerous! This is a documentation. Not a manual. If you try to build a similar device, the entire risk is yours alone! If you do not feel 100% safe in handling high voltage, do not do it and buy a safe, industrially manufactured device.**
+**WARNING! This device operates with high voltage. This is life-threateningly dangerous! This is a documentation. Not a manual. I may have made mistakes. If you try to build a similar device, the entire risk is yours alone! If you do not feel 100% safe in handling high voltage, do not do it and buy a safe, industrially manufactured device.**
 
 If you find mistakes or suggestions for improvement, please don't hesitate and send them my way.
 
-# A PSU for my Eurorack
+## The Power Supply
 
 <img src="photos/psu.jpg" width="600">
 
 <img src="photos/psuinside1.jpg" width="300" style="display:inline-block;"> <img src="photos/psuoutside1.jpg" width="300">
 
-# Circuit Diagram
+## Circuit Diagram
 
 I chose this circuit as a basis for my power supply: https://syntherjack.net/modular-synth-power-supply/
 
@@ -36,7 +36,7 @@ There are three control LEDs on the front panel of the power supply. I chose the
 
 <img src="photos/psuoutside2.jpg" width="300">
 
-# Transformer
+## Transformer
 
 In order to make sure that both secondary windings are connected in the same order
 I checked using my oscilloscope. I did not confirm it experimentally but I am sure
@@ -46,7 +46,7 @@ I am sure that this is the only correct way to do it.
 
 ![](bitmaps/oscilloscope1.png)
 
-# Case
+## Case
 
 I decided to design a complete case for my PSU and manufacture it with my 3d-printer. Here is the model of it:
 
@@ -74,7 +74,7 @@ There is a separate 3D model of a support element to be placed below the PSU so 
 
 <img src="photos/support.jpg" width="300">
 
-# What would I change if I would build this a second time?
+## What would I change if I would build this a second time?
 
 - Make the right side read wall one millimeter thicker so it does bend less wenn plugin/unplugin the power cord.
 - I didn't need the hole for the front panel fuse, so I would close it. However, it could be useful with a different design.
