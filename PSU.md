@@ -74,11 +74,11 @@ There is also a small element to fix a power cable inside the Eurorack case (Zug
 
 <img src="photos/cable.jpg" width="300">
 
-There is a separate 3D model of a support element to be placed below the PSU so the wait of it does not bend any of the other elements over time. This supporting element not exactly as high as required because I glued some rubber onto it.
+There is a separate 3D model of a support element to be placed below the PSU so the weight of it does not bend any of the other elements over time. I made this supporting element not exactly as high as required because I planned to glue some rubber onto it.
 
 <img src="photos/support.jpg" width="300">
 
 ## What would I change if I would build this a second time?
 
-- Make the right side read wall one millimeter thicker so it does bend less wenn plugin/unplugin the power cord.
+- Make the right side rear wall one millimeter thicker so it does bend less wenn pluging/unpluging the power cord.
 - I didn't need the hole for the front panel fuse, so I would close it. However, it could be useful with a different design.
