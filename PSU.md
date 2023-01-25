@@ -8,7 +8,7 @@ If you find mistakes or suggestions for improvement, please don't hesitate and s
 
 <img src="photos/psu.jpg" width="600">
 
-<img src="photos/psuinside1.jpg" width="200" style="display:inline-block;"> <img src="photos/psuinside2.jpg" width="200"  style="display:inline-block;"> <img src="photos/psuoutside1.jpg" width="200"> <img src="photos/psutop.jpg" width="200"> <img src="photos/cable.jpg" width="200">
+<img src="photos/psuinside1.jpg" width="200" style="display:inline-block;"> <img src="photos/psuinside2.jpg" width="200"  style="display:inline-block;"> <img src="photos/psuoutside1.jpg" width="200">
 
 # Circuit Diagram
 
@@ -54,12 +54,21 @@ I decided to design a complete case for my PSU and manufacture it with my 3d-pri
 
 The case was made to be placed into a Eurorack. It is divided into two chambers: the first one contains all the high voltage elements and the transformator while the second one houses the voltage regulator board. Outside the case is a niche for a small PCB with up to three 16pin sockets. There is also a rectangluar window for a grille of 10cm x 10cm to let warm air escape. I bought one of these perforated Aluminium sheets to use it as grille: https://amzn.to/3iXulSA
 
+<img src="photos/psubuiltin.JPG" width="200">
+
 The high voltage chamber has a round bed for a toroidal transformer.
+
+The upper element is provided with recesses into which nuts can be glued.
+
+<img src="photos/psutop.jpg" width="200">
+
+There is also a small element to fix a power cable inside the Eurorack case (Zugentlastung).
+
+<img src="photos/cable.jpg" width="200">
 
 There is a separate 3D model of a support element to be placed below the PSU so the wait of it does not bend any of the other elements over time.
 
-<img src="photos/support.jpg" width="200"> <img src="photos/psubuiltin.JPG" width="200">
-
+<img src="photos/support.jpg" width="200">
 
 # What would I change if I would build this a second time?
 
