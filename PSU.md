@@ -36,7 +36,7 @@ In order to make sure that both secondary windings are connected in the same ord
 I checked using my oscilloscope. I did not confirm it experimentally but I am sure
 that the secondary windings must be connected in the right phase order. The following
 screenshots show the two options of the phases and I chose the right option because
-I am sure that this is the only correct way to do it. P
+I am sure that this is the only correct way to do it.
 
 ![](bitmaps/oscilloscope1.png)
 
