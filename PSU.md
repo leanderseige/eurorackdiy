@@ -14,6 +14,8 @@ I chose this circuit as a basis for my power supply: https://syntherjack.net/mod
 
 However, I have made a few small changes. So here is the diagram of exactly my PSU:
 
+<img src="bitmaps/psu_circuit_diagram.png">
+
 Various Comments:
 
 In order to get a full featured PSU I simply added a 7805 to the 12V channel to create a 5V channel. But I didn't want the 7805 to be all alone so I placed some additional capacitors around it.
