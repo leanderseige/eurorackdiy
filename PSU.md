@@ -60,8 +60,7 @@ The high voltage chamber has a round bed for a toroidal transformer.
 
 There is a separate 3D model of a support element to be placed below the PSU so the wait of it does not bend any of the other elements over time.
 
-<img src="photos/support.jpg" width="200">
-<img src="photos/psubuiltin.jpg" width="200">
+<img src="photos/support.jpg" width="200"> <img src="photos/psubuiltin.JPG" width="200">
 
 
 # What would I change if I would build this a second time?
