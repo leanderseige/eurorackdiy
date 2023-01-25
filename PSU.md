@@ -66,7 +66,7 @@ There is also a rectangluar window for a grille of 10cm x 10cm to let warm air e
 
 The high voltage chamber has a round bed for a toroidal transformer.
 
-The upper element is provided with recesses into which nuts can be glued.
+The upper element is provided with recesses into which nuts can be glued. But I also had to remove some plastic here and there in order to give the skrews enough space.
 
 <img src="photos/psutop.jpg" width="300">
 
