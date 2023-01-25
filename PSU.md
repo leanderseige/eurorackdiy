@@ -28,6 +28,7 @@ I did not feel save with just one fuse in the primary circuit so I added one in 
 
 I was not able the get the output voltages lower than 12.7 (or -12.7) volt. So next time I probably would try a 1.5k resistor plus a 1k potentiometer. However I did not measure the PSU with load yet.
 
+There are three control LEDs on the front panel of the power supply. I chose the colors according to the ATX standard (https://en.wikipedia.org/wiki/ATX) : yellow for +12V, red for +5V and blue for -12V.
 
 # Transformer
 
