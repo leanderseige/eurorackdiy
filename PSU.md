@@ -74,7 +74,7 @@ There is also a small element to fix a power cable inside the Eurorack case (Zug
 
 <img src="photos/cable.jpg" width="300">
 
-There is a separate 3D model of a support element to be placed below the PSU so the wait of it does not bend any of the other elements over time.
+There is a separate 3D model of a support element to be placed below the PSU so the wait of it does not bend any of the other elements over time. This supporting element not exactly as high as required because I glued some rubber onto it.
 
 <img src="photos/support.jpg" width="300">
 
