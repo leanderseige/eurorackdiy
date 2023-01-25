@@ -6,6 +6,8 @@ If you find mistakes or suggestions for improvement, please don't hesitate and s
 
 ## The Power Supply
 
+Here is the documentation of how I  built my own Eurorack DIY power supply, including an appropriate case.
+
 <img src="photos/psu.jpg" width="600">
 
 <img src="photos/psuinside1.jpg" width="300" style="display:inline-block;"> <img src="photos/psuoutside1.jpg" width="300">
@@ -26,7 +28,7 @@ I had a rectifier RS405 at hand from an old PC power supply, so I chose this one
 
 I did not have 1N4007 diodes but UF4007, so I used these instead.
 
-I have one of those complete power modules that consist of a switch, a fuse and a jack and I used it for the rear side of the PSU. Of course I also added another switch for the front panel so I ended upd with two switches.
+I have one of those complete power modules that consist of a switch, a fuse and a jack and I used it for the rear side of the PSU (https://amzn.to/3XVcw57). Of course I also added another switch for the front panel so I ended up with two switches.
 
 I did not feel save with just one fuse in the primary circuit so I added one in each secondary AC channel. This maybe could or should be improved by putting them on the DC outputs instead?
 
@@ -45,6 +47,8 @@ screenshots show the two options of the phases and I chose the right option beca
 I am sure that this is the only correct way to do it.
 
 ![](bitmaps/oscilloscope1.png)
+
+I used this toroidal mains transformer: https://www.reichelt.de/ringkerntrafo-80-va-2x-15-v-2x-2-67-a-rkt-8015-p15283.html
 
 ## Case
 
