@@ -7,6 +7,14 @@ If you find mistakes or suggestions for improvement, please don't hesitate and s
 # A PSU for my Eurorack
 
 <img src="photos/psu.jpg" width="600">
+<img src="photos/psuinside1.jpg" width="200">
+<img src="photos/psuinside2.jpg" width="200">
+<img src="photos/psuoutside1.jpg" width="200">
+<img src="photos/psuoutside2.jpg" width="200">
+<img src="photos/psubuiltin.jpg" width="200">
+<img src="photos/psutop.jpg" width="200">
+<img src="photos/support.jpg" width="200">
+<img src="photos/cable.jpg" width="200">
 
 # Circuit Diagram
 
