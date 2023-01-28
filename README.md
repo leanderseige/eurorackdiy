@@ -34,6 +34,4 @@ Eurorack Specs: https://doepfer.de/a100_man/a100m_d.htm and https://doepfer.de/a
 
 ## Power Supply
 
-My next step is to build my own DIY power suppply.
-
-I am going to follow the specs  https://doepfer.de/a100_man/a100m_d.htm and the circuit diagram of my choice will be this one: https://syntherjack.net/modular-synth-power-supply/
+Find the documentation of the power supply in the separate file [PSU.md](PSU.md).
