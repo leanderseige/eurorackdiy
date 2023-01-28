@@ -1,6 +1,6 @@
 # Eurorack DIY
 
-After building a few experimental synthesizers myself, I'm now starting to build and use modular synthesizers. In this repo I document how building my own DIY Eurorack is evolving and share some files that might help others.
+After building a few experimental synthesizers myself, I'm now starting to build and use modular synthesizers. In this repo I document how building my own DIY Eurorack is evolving and share some files that might help others. Latest addition: my DIY power supply, see [PSU.md](PSU.md)
 
 **This is only a documentation, not a tutorial. Feel free to be inspired, but think for yourself! I may have made mistakes at any point. The risk of rebuilding my designs or using my files is entirely yours.**
 
