@@ -52,7 +52,7 @@ I used this toroidal mains transformer: https://www.reichelt.de/ringkerntrafo-80
 
 ## Case
 
-I decided to design a complete case for my PSU and manufacture it with my 3d-printer. Here is the model of it:
+I decided to design a complete case for my PSU and manufacture it with my 3d-printer (https://amzn.to/3wCqKfW) using black PLA (https://amzn.to/3Dog1cx). Here is the model of it:
 
 ![](bitmaps/explodedpsucase.png)
 
@@ -60,7 +60,7 @@ The case was made to be placed into a Eurorack. It is divided into two chambers:
 
 <img src="photos/psuinside2.jpg" width="300"  style="display:inline-block;">
 
-There is also a rectangluar window for a grille of 10cm x 10cm to let warm air escape. I bought one of these perforated Aluminium sheets to use it as grille: https://amzn.to/3iXulSA
+There is also a rectangluar window for a grille of 10cm x 10cm to let warm air escape. I bought one of these perforated Aluminium sheets to use it as grille: https://amzn.to/3iXulSA The windows were placed inside the chassis area to avoid screws protruding into the adjacent module space.
 
 <img src="photos/psubuiltin.JPG" width="300">
 
