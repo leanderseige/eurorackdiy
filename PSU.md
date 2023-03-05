@@ -56,7 +56,7 @@ I decided to design a complete case for my PSU and manufacture it with my 3d-pri
 
 ![](bitmaps/explodedpsucase.png)
 
-The case was made to be placed into a Eurorack. It is divided into two chambers: the first one contains all the high voltage elements and the transformator while the second one houses the voltage regulator board. Outside the case is a niche for a small PCB with up to three 16pin sockets.
+The case was made to be placed into a Eurorack and requries 36HP. It is divided into two chambers: the first one contains all the high voltage elements and the transformator while the second one houses the voltage regulator board. Outside the case is a niche for a small PCB with up to three 16pin sockets.
 
 <img src="photos/psuinside2.jpg" width="300"  style="display:inline-block;">
 
