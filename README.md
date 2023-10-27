@@ -4,6 +4,10 @@ After building a few experimental synthesizers myself, I'm now starting to build
 
 **This is only a documentation, not a tutorial. Feel free to be inspired, but think for yourself! I may have made mistakes at any point. The risk of rebuilding my designs or using my files is entirely yours.**
 
+## Power Supply
+
+... see [separate Document](PSU.md)! 
+
 ## Case
 
 ![my Eurorack, current status](photos/case1.jpg)
